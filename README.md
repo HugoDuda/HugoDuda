@@ -143,13 +143,9 @@
 <!-- Section "Me Contacter" -->
 ## Me Contacter
 <p>
-  <a href="mailto:ton-email@example.com">
+  <a href="mailto:hugo.duda@epitech.eu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/ton-profil" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- Ajoute d'autres liens si nécessaire (Portfolio, Twitter, etc.) -->
 </p>
 
 <div align="center">
