@@ -142,8 +142,8 @@
 
 <!-- Section "Stats GitHub" (facultatif, utilise des workflows externes) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonNomGitHub&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomGitHub&layout=compact&theme=tokyonight" height="160" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoDuda&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDuda&layout=compact&theme=tokyonight" height="160" alt="langs"/>
 </p>
 
 <!-- Bannière de fin (optionnelle) -->
