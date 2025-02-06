@@ -9,8 +9,8 @@
 ---
 
 <!-- Section "Outils et technologies" -->
-<h3 align="left">Langages et Outils :</h3>
-<p align="left">
+<h3>Langages et Outils :</h3>
+<p>
   <!-- Android -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" 
@@ -140,13 +140,18 @@
 
 ---
 
-<!-- Section "Stats GitHub" (facultatif, utilise des workflows externes) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoDuda&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDuda&layout=compact&theme=tokyonight" height="160" alt="langs"/>
+<!-- Section "Me Contacter" -->
+## Me Contacter
+<p>
+  <a href="mailto:ton-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ton-profil" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- Ajoute d'autres liens si nécessaire (Portfolio, Twitter, etc.) -->
 </p>
 
-<!-- Bannière de fin (optionnelle) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
 </div>
