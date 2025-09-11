@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hugo</h1>
-<h3 align="center">Epitech Tek2</h3>
+<h3 align="center">Epitech Tek3</h3>
 
 ---
 
