@@ -1,15 +1,15 @@
 <!-- Bannière animée (optionnelle) : https://github.com/kyechan99/capsule-render -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Bienvenue%20sur%20mon%20Profil&fontSize=30&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20on%20my%20Profile&fontSize=30&fontAlignY=35&animation=twinkling"/>
 </div>
 
 <h1 align="center">Hugo</h1>
-<h3 align="center">Epitech Tek3</h3>
+<h3 align="center">Epitech Tek3 (Third year Epitech student)</h3>
 
 ---
 
 <!-- LANGAGES -->
-## Langages
+## Languages
 <p>
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -88,7 +88,7 @@
 ---
 
 <!-- OUTILS -->
-## Outils
+## Tools
 <p>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -155,7 +155,7 @@
 ---
 
 <!-- Section "Me Contacter" -->
-## Me Contacter
+## Contact
 <p>
   <a href="mailto:hugo.duda@epitech.eu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
