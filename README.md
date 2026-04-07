@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hugo%20Duda&fontSize=40&fontAlignY=35&animation=twinkling" alt="header"/>
 </div>
 
-<h1 align="center">Hugo Duda</h1>
 <h3 align="center">Third-year Epitech student • Developer</h3>
 
 <p align="center">
