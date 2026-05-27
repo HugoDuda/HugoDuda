@@ -1,41 +1,129 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hugo%20Duda&fontSize=40&fontAlignY=35&animation=twinkling" alt="header"/>
+
+  <a href="https://github.com/HugoDuda">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hugo+Duda;Low-level+%26+Graphics;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Haskell" alt="header" />
+  </a>
+
+  <p>Third-year student at <strong>Epitech Nancy</strong></p>
+
+  <p>
+    <a href="mailto:hugo.duda@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.duda%40epitech.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/hugo-duda-2221b6235/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <img src="https://komarev.com/ghpvc/?username=HugoDuda&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  </p>
+
 </div>
 
-<h3 align="center">Third-year Epitech student • Developer</h3>
+---
 
-<p align="center">
-  <a href="mailto:hugo.duda@epitech.eu">
-    <img src="https://img.shields.io/badge/Email-hugo.duda@epitech.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+## About
+
+Systems-oriented developer focused on real-time graphics, compilers, and reproducible
+build infrastructure. Comfortable across the stack, low-level, GPU work and
+functional DSLs.
+
+|                         |                                                                             |
+| ----------------------- | ----------------------------------------------------------------------------|
+| **Focus**               | Low-level programming - Real-time graphics - Functional languages           |
+| **Currently learning**  | Vulkan synchronization - Rust - Haskell back-end web application            |
+| **Currently building**  | VMNL - Vulkan Multimedia Networking Library - Rust library built on Vulkan  |
+| **Based in**            | Nancy, France                                                               |
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### VMNL - Vulkan Muldiamedia Networking Library
+Rust library built on Vulkan, provide a predictable, high-performance, and modular base for: game engines, real-time applications, rendering systems.
+
+`Rust` `C` `Vulkan` `Shaderc`
+
+[Repository](https://github.com/VMNL/vmnl)
+
+</td>
+<td width="50%" valign="top">
+
+### Zappy
+A Networking game involving teams of AI battling each other to reach maximum level in an arena containing limited resources. Winning team is the one that have at least 6 members at max level.
+
+`C++` `C` `Python` `GUI` `Server` `AI Algorithm`
+
+[Repository](https://github.com/lszsrd/zappy) - [Documentation](https://lszsrd.github.io/zappy/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Glados
+Implementing a programming language of our own design, in Haskell
+
+`Haskell` `AST` `Lexer` `Parser`
+
+[Repository](https://github.com/lszsrd/glados) - [Documentation](https://lszsrd.github.io/glados/) - [Playground](https://rizzplayground.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### C2DGL
+C2DGL is a graphical library based on OpenGL 4.6, High/Low-level API
+
+`C` `OpenGL`
+
+[Repository](https://github.com/HugoDuda/C2DGL)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
-| C | C++ | Rust | Haskell | JavaScript | PHP |
-|---|---|---|---|---|---|
-| <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/></a> | <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/></a> | <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="48" height="48"/></a> | <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="48" height="48"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/></a> | <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48"/></a> |
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
+</p>
+
+**Tools & Infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 ---
 
-### Frameworks & Technologies
+## Contact
 
-| Vue.js | Nuxt.js | Next.js | Node.js | OpenGL | Vulkan | CMake |
-|---|---|---|---|---|---|---|
-| <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="48" height="48"/></a> | <a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="48" height="48"/></a> | <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48"/></a> | <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="48" height="48"/></a> | <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="OpenGL" width="48" height="48"/></a> | <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg" alt="Vulkan" width="48" height="48"/></a> | <a href="https://cmake.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="48" height="48"/></a> |
+Open to discussions about internships, collaboration, and technical topics like graphics, compilers, systems.
 
----
-
-### Tools
-
-| Git | Linux | NixOS | GitHub Actions | MySQL | MongoDB | Bash | Postman |
-|---|---|---|---|---|---|---|---|
-| <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/></a> | <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/></a> | <a href="https://nixos.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="NixOS" width="48" height="48"/></a> | <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="48" height="48"/></a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/></a> | <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/></a> | <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="48" height="48"/></a> | <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/></a> |
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" alt="footer"/>
-</div>
+- **Email** - [hugo.duda@epitech.eu](mailto:hugo.duda@epitech.eu)
+- **LinkedIn** - https://www.linkedin.com/in/hugo-duda-2221b6235/
