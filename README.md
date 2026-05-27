@@ -24,9 +24,9 @@ functional DSLs.
 
 |                         |                                                                             |
 | ----------------------- | ----------------------------------------------------------------------------|
-| **Focus**               | Low-level programming - Real-time graphics - Functional languages           |
-| **Currently learning**  | Vulkan synchronization - Rust - Haskell back-end web application            |
-| **Currently building**  | VMNL - Vulkan Multimedia Networking Library - Rust library built on Vulkan  |
+| **Focus**               | Low-level programming · Real-time graphics · Functional languages           |
+| **Currently learning**  | Vulkan synchronization · Rust · Haskell back-end web application            |
+| **Currently building**  | VMNL - Vulkan Multimedia Networking Library · Rust library built on Vulkan  |
 | **Based in**            | Nancy, France                                                               |
 
 ---
@@ -37,8 +37,14 @@ functional DSLs.
 <tr>
 <td width="50%" valign="top">
 
-### VMNL - Vulkan Muldiamedia Networking Library
-Rust library built on Vulkan, provide a predictable, high-performance, and modular base for: game engines, real-time applications, rendering systems.
+### VMNL - Vulkan Muldimedia Networking Library
+![stars](https://img.shields.io/github/stars/VMNL/vmnl?style=flat-square&color=58A6FF)
+![release](https://img.shields.io/github/v/release/VMNL/vmnl?style=flat-square&color=58A6FF)
+![ci](https://img.shields.io/github/actions/workflow/status/VMNL/vmnl/ci.yml?style=flat-square&label=CI)
+![last-commit](https://img.shields.io/github/last-commit/VMNL/vmnl?style=flat-square&color=58A6FF)
+![license](https://img.shields.io/github/license/VMNL/vmnl?style=flat-square)
+
+Rust library built on Vulkan, provides a predictable, high-performance, and modular base for: game engines, real-time applications, rendering systems.
 
 `Rust` `C` `Vulkan` `Shaderc`
 
@@ -48,7 +54,7 @@ Rust library built on Vulkan, provide a predictable, high-performance, and modul
 <td width="50%" valign="top">
 
 ### Zappy
-A Networking game involving teams of AI battling each other to reach maximum level in an arena containing limited resources. Winning team is the one that have at least 6 members at max level.
+A Networking game involving teams of AI battling each other to reach maximum level in an arena containing limited resources. Winning team is the one that has at least 6 members at max level.
 
 `C++` `C` `Python` `GUI` `Server` `AI Algorithm`
 
@@ -70,7 +76,7 @@ Implementing a programming language of our own design, in Haskell
 <td width="50%" valign="top">
 
 ### C2DGL
-C2DGL is a graphical library based on OpenGL 4.6, High/Low-level API
+Graphics library built on OpenGL 4.6 exposing both high-level and low-level APIs.
 
 `C` `OpenGL`
 
@@ -94,28 +100,43 @@ C2DGL is a graphical library based on OpenGL 4.6, High/Low-level API
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
-**Frameworks & Libraries**
+**Web Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+**Web Frontend**
 
 <p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
-  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
 </p>
 
-**Tools & Infrastructure**
+**Graphics & Game Libraries**
 
 <p>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+  <img src="https://img.shields.io/badge/Vulkan-A41E22?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan"/>
+  <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white" alt="SFML"/>
+  <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white" alt="Raylib"/>
+  <img src="https://img.shields.io/badge/GLFW-1E1E1E?style=for-the-badge&logoColor=white" alt="GLFW"/>
+</p>
+
+**Build & Tooling**
+
+<p>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
