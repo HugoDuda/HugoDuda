@@ -150,4 +150,4 @@ Graphics library built on OpenGL 4.6 exposing both high-level and low-level APIs
 Open to discussions about internships, collaboration, and technical topics like graphics, compilers, systems.
 
 - **Email** - [hugo.duda@epitech.eu](mailto:hugo.duda@epitech.eu)
-- **LinkedIn** - https://www.linkedin.com/in/hugo-duda-2221b6235/
+- **LinkedIn** - https://www.linkedin.com/in/hugo-duda/
