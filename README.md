@@ -75,12 +75,17 @@ Implementing a programming language of our own design, in Haskell
 </td>
 <td width="50%" valign="top">
 
-### C2DGL
-Graphics library built on OpenGL 4.6 exposing both high-level and low-level APIs.
+### Fourmolu warning
+![stars](https://img.shields.io/github/stars/HugoDuda/fourmolu-warning?style=flat-square&color=58A6FF)
+![release](https://img.shields.io/github/v/release/HugoDuda/fourmolu-warning?style=flat-square&color=58A6FF)
+![last-commit](https://img.shields.io/github/last-commit/HugoDuda/fourmolu-warning?style=flat-square&color=58A6FF)
+![license](https://img.shields.io/github/license/HugoDuda/fourmolu-warning?style=flat-square)
 
-`C` `OpenGL`
+Fourmolu Warning reports Haskell files that do not pass a Fourmolu formatting check, without modifying them automatically.
 
-[Repository](https://github.com/HugoDuda/C2DGL)
+`Javascript` `VSCode`
+
+[Repository](https://github.com/HugoDuda/fourmolu-warning)
 
 </td>
 </tr>
