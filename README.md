@@ -55,7 +55,7 @@ Rust library built on Vulkan, provides a predictable, high-performance, and modu
 
 ### Zappy
 ![license](https://img.shields.io/github/license/lszsrd/zappy?style=flat-square)
-![ci](https://img.shields.io/github/actions/workflow/status/lszsrd/zappy/ci.yml?style=flat-square&label=CI)
+![ci](https://img.shields.io/github/actions/workflow/status/lszsrd/zappy/CI.yml?style=flat-square&label=CI)
 
 A Networking game involving teams of AI battling each other to reach maximum level in an arena containing limited resources. Winning team is the one that has at least 6 members at max level.
 
@@ -71,7 +71,7 @@ A Networking game involving teams of AI battling each other to reach maximum lev
 ### Glados
 ![release](https://img.shields.io/github/v/release/lszsrd/glados?style=flat-square&color=58A6FF)
 ![license](https://img.shields.io/github/license/lszsrd/glados?style=flat-square)
-![ci](https://img.shields.io/github/actions/workflow/status/lszsrd/glados/ci.yml?style=flat-square&label=CI)
+[![CI](https://img.shields.io/github/actions/workflow/status/lszsrd/r-type/CI.yaml?branch=main&style=flat-square&label=CI)](https://github.com/lszsrd/glados/actions/workflows/CI.yaml)
 
 Implementing a programming language of our own design, in Haskell
 
