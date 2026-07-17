@@ -75,13 +75,13 @@ Implementing a programming language of our own design, in Haskell
 </td>
 <td width="50%" valign="top">
 
-### Fourmolu warning
+### Fourmolu checker
 ![stars](https://img.shields.io/github/stars/HugoDuda/fourmolu-warning?style=flat-square&color=58A6FF)
 ![release](https://img.shields.io/github/v/release/HugoDuda/fourmolu-warning?style=flat-square&color=58A6FF)
 ![last-commit](https://img.shields.io/github/last-commit/HugoDuda/fourmolu-warning?style=flat-square&color=58A6FF)
 ![license](https://img.shields.io/github/license/HugoDuda/fourmolu-warning?style=flat-square)
 
-Fourmolu Warning reports Haskell files that do not pass a Fourmolu formatting check, without modifying them automatically.
+Display Fourmolu formatting differences as VS Code diagnostics without automatically modifying your Haskell source files.
 
 `Javascript` `VSCode`
 
