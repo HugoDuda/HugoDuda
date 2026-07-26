@@ -83,7 +83,7 @@ Epitech project - Implementing a programming language of our own design, in Hask
 <td width="50%" valign="top">
 
 ### Fourmolu checker
-![installs](https://img.shields.io/visual-studio-marketplace/i/hugoduda.fourmolu-checker?style=flat-square&color=58A6FF)
+![installs](https://vsmarketplacebadges.dev/installs/HugoDuda.fourmolu-checker.svg)
 ![stars](https://img.shields.io/github/stars/HugoDuda/fourmolu-checker?style=flat-square&color=58A6FF)
 ![release](https://img.shields.io/github/v/release/HugoDuda/fourmolu-checker?style=flat-square&color=58A6FF)
 ![last-commit](https://img.shields.io/github/last-commit/HugoDuda/fourmolu-checker?style=flat-square&color=58A6FF)
@@ -94,7 +94,7 @@ Display Fourmolu formatting differences as VS Code diagnostics without automatic
 
 `Javascript` `VSCode`
 
-[Repository](https://github.com/HugoDuda/fourmolu-checker)
+[Repository](https://github.com/HugoDuda/fourmolu-checker) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=HugoDuda.fourmolu-checker)
 
 </td>
 </tr>
