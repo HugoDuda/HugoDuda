@@ -40,8 +40,8 @@ functional DSLs.
 ### VMNL - Vulkan Muldimedia Networking Library
 ![stars](https://img.shields.io/github/stars/VMNL/vmnl?style=flat-square&color=58A6FF)
 ![release](https://img.shields.io/github/v/release/VMNL/vmnl?style=flat-square&color=58A6FF)
-![ci](https://img.shields.io/github/actions/workflow/status/VMNL/vmnl/ci.yml?style=flat-square&label=CI)
 ![last-commit](https://img.shields.io/github/last-commit/VMNL/vmnl?style=flat-square&color=58A6FF)
+![ci](https://img.shields.io/github/actions/workflow/status/VMNL/vmnl/ci.yml?style=flat-square&label=CI)
 ![license](https://img.shields.io/github/license/VMNL/vmnl?style=flat-square)
 
 Rust library built on Vulkan, provides a predictable, high-performance, and modular base for: game engines, real-time applications, rendering systems.
@@ -54,8 +54,8 @@ Rust library built on Vulkan, provides a predictable, high-performance, and modu
 <td width="50%" valign="top">
 
 ### Zappy
-![license](https://img.shields.io/github/license/lszsrd/zappy?style=flat-square)
 ![ci](https://img.shields.io/github/actions/workflow/status/lszsrd/zappy/CI.yml?style=flat-square&label=CI)
+![license](https://img.shields.io/github/license/lszsrd/zappy?style=flat-square)
 
 Epitech project - A Networking game involving teams of AI battling each other to reach maximum level in an arena containing limited resources. Winning team is the one that has at least 6 members at max level.
 
@@ -70,8 +70,8 @@ Epitech project - A Networking game involving teams of AI battling each other to
 
 ### Glados
 ![release](https://img.shields.io/github/v/release/lszsrd/glados?style=flat-square&color=58A6FF)
+[![ci](https://img.shields.io/github/actions/workflow/status/lszsrd/r-type/CI.yaml?branch=main&style=flat-square&label=CI)](https://github.com/lszsrd/glados/actions/workflows/CI.yaml)
 ![license](https://img.shields.io/github/license/lszsrd/glados?style=flat-square)
-[![CI](https://img.shields.io/github/actions/workflow/status/lszsrd/r-type/CI.yaml?branch=main&style=flat-square&label=CI)](https://github.com/lszsrd/glados/actions/workflows/CI.yaml)
 
 Epitech project - Implementing a programming language of our own design, in Haskell
 
@@ -86,6 +86,7 @@ Epitech project - Implementing a programming language of our own design, in Hask
 ![stars](https://img.shields.io/github/stars/HugoDuda/fourmolu-warning?style=flat-square&color=58A6FF)
 ![release](https://img.shields.io/github/v/release/HugoDuda/fourmolu-warning?style=flat-square&color=58A6FF)
 ![last-commit](https://img.shields.io/github/last-commit/HugoDuda/fourmolu-warning?style=flat-square&color=58A6FF)
+![ci](https://img.shields.io/github/actions/workflow/status/HugoDuda/fourmolu-warning/ci.yml?style=flat-square&label=CI)
 ![license](https://img.shields.io/github/license/HugoDuda/fourmolu-warning?style=flat-square)
 
 Display Fourmolu formatting differences as VS Code diagnostics without automatically modifying your Haskell source files.
