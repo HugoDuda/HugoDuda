@@ -83,17 +83,18 @@ Epitech project - Implementing a programming language of our own design, in Hask
 <td width="50%" valign="top">
 
 ### Fourmolu checker
-![stars](https://img.shields.io/github/stars/HugoDuda/fourmolu-warning?style=flat-square&color=58A6FF)
-![release](https://img.shields.io/github/v/release/HugoDuda/fourmolu-warning?style=flat-square&color=58A6FF)
-![last-commit](https://img.shields.io/github/last-commit/HugoDuda/fourmolu-warning?style=flat-square&color=58A6FF)
-![ci](https://img.shields.io/github/actions/workflow/status/HugoDuda/fourmolu-warning/ci.yml?style=flat-square&label=CI)
-![license](https://img.shields.io/github/license/HugoDuda/fourmolu-warning?style=flat-square)
+![installs](https://img.shields.io/visual-studio-marketplace/i/hugoduda.fourmolu-checker?style=flat-square&color=58A6FF)
+![stars](https://img.shields.io/github/stars/HugoDuda/fourmolu-checker?style=flat-square&color=58A6FF)
+![release](https://img.shields.io/github/v/release/HugoDuda/fourmolu-checker?style=flat-square&color=58A6FF)
+![last-commit](https://img.shields.io/github/last-commit/HugoDuda/fourmolu-checker?style=flat-square&color=58A6FF)
+![ci](https://img.shields.io/github/actions/workflow/status/HugoDuda/fourmolu-checker/ci.yml?style=flat-square&label=CI)
+![license](https://img.shields.io/github/license/HugoDuda/fourmolu-checker?style=flat-square)
 
 Display Fourmolu formatting differences as VS Code diagnostics without automatically modifying your Haskell source files.
 
 `Javascript` `VSCode`
 
-[Repository](https://github.com/HugoDuda/fourmolu-warning)
+[Repository](https://github.com/HugoDuda/fourmolu-checker)
 
 </td>
 </tr>
