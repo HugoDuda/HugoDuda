@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hugo+Duda;Low-level+%26+Graphics;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Haskell" alt="header" />
   </a>
 
-  <p>Third-year student at <strong>Epitech Nancy</strong></p>
+  <p>Fourth-year student at <strong>Epitech Nancy</strong></p>
 
   <p>
     <a href="mailto:hugo.duda@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.duda%40epitech.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -26,7 +26,7 @@ functional DSLs.
 | ----------------------- | ----------------------------------------------------------------------------|
 | **Focus**               | Low-level programming · Real-time graphics · Functional languages           |
 | **Currently learning**  | Vulkan synchronization · Rust · Haskell back-end web application            |
-| **Currently building**  | VMNL - Vulkan Multimedia Networking Library · Rust library built on Vulkan  |
+| **Currently building**  | VMNL - Vulkan Multimedia Networking Library · Fourmolu checker              |
 | **Based in**            | Nancy, France                                                               |
 
 ---
