@@ -22,13 +22,6 @@ Systems-oriented developer focused on real-time graphics, compilers, and reprodu
 build infrastructure. Comfortable across the stack, low-level, GPU work and
 functional DSLs.
 
-|                         |                                                                             |
-| ----------------------- | ----------------------------------------------------------------------------|
-| **Focus**               | Low-level programming · Real-time graphics · Functional languages           |
-| **Currently learning**  | Vulkan synchronization · Rust · Haskell back-end web application            |
-| **Currently building**  | VMNL - Vulkan Multimedia Networking Library · Fourmolu checker              |
-| **Based in**            | Nancy, France                                                               |
-
 ---
 
 ## Featured Projects
