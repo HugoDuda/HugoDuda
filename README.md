@@ -7,7 +7,7 @@
   <p>Fourth-year student at <strong>Epitech Nancy</strong></p>
 
   <p>
-    <a href="mailto:hugo.duda@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.duda%40epitech.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:hugo.duda@pm.me"><img src="https://img.shields.io/badge/Email-hugo.duda%40pm.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.linkedin.com/in/hugo-duda-2221b6235/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <img src="https://komarev.com/ghpvc/?username=HugoDuda&style=for-the-badge&color=blueviolet" alt="Profile views"/>
   </p>
