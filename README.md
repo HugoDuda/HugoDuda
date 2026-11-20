@@ -85,5 +85,5 @@ functional DSLs.
 
 Open to discussions about internships, collaboration, and technical topics like graphics, compilers, systems.
 
-- **Email** - [hugo.duda@epitech.eu](mailto:hugo.duda@epitech.eu)
+- **Email** - [hugo.duda@pm.me](mailto:hugo.duda@pm.me)
 - **LinkedIn** - https://www.linkedin.com/in/hugo-duda/
